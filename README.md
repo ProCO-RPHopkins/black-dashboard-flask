@@ -64,7 +64,7 @@ Visit `http://localhost:5085` in your browser. The app should be up & running.
 
 The meaning of each variable can be found below: 
 
-- `DEBUG`: if `True` the app runs in develoment mode
+- `DEBUG`: if `True` the app runs in development mode
   - For production value `False` should be used
 - `ASSETS_ROOT`: used in assets management
   - default value: `/static/assets`
